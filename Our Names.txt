@@ -1,6 +1,7 @@
 Saeed
-<<<<<<< HEAD
+
 Rony
-=======
+
 Kazi Al-Amin
->>>>>>> fdfea06447c1b7f469a3b835ab5102835f99fb96
+
+Foisal
